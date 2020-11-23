@@ -1,7 +1,7 @@
 
 # Secured Json
 
-It's a SCI module to support JSON encryption/decryption
+It's a module to support JSON encryption/decryption
 
 ## Build
 
